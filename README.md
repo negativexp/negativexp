@@ -1,4 +1,9 @@
-### Hi there 👋
+### HELLO 👋
+I am a 19 year old 👨‍🎓 student from Czech Republic.
+Currently working on WYSIWYG web editor/backbone project.
+
+## I'm down to talk
+📧: matyas.schuller@educhem.cz
 
 <!--
 **negativexp/negativexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
