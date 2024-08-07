@@ -1,4 +1,4 @@
-### HELLO 👋
+# Hi!
 I am a 19 year old 👨‍🎓 student from Czech Republic.
 Currently working on WYSIWYG web editor/backbone project.
 
